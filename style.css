@@ -1,0 +1,67 @@
+
+h1{
+color:white;
+}
+h2{
+color:white;
+}
+h3{
+color: white;
+}
+
+body {
+    background-color: cornflowerblue;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    }
+
+    img {
+width: 275px;
+height: 250px;
+padding-bottom: 100px;
+padding-top: 100px;
+}
+
+
+
+table,th,td {
+    border-style: solid;
+    border-color: black;
+    scroll-padding-block-end: 50px;
+    margin-top: 5px;
+    text-align: left;
+    }
+     
+
+   
+iframe{
+    width: 600px;
+    height: 600px;
+    }
+
+
+
+
+
+.firstdiv {
+    color: darkblue;
+    padding-bottom: 25px;
+    margin-left: 75px;
+}
+
+.seconddiv {
+    color: darkblue;
+    padding-bottom: 25px;
+    margin-left: 75px;
+}
+
+.thirddiv {
+    color:darkblue;
+    padding-bottom: 25px;
+    margin-left: 75px;
+}
+
+.DMBYoutubeVideo > div { 
+    display: flex;
+        justify-content: center;
+} 
